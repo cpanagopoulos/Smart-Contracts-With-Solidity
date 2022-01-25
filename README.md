@@ -16,6 +16,15 @@ To automate the creation of joint savings accounts, create a Solidity smart cont
 
 3. Interact with the Smart Contract to confirm accounts successfully transact.
 
+### Set Accounts
+![Set Accounts](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/set_accounts_in-solidity.PNG)
+![Identify Accounts](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/set_accounts.PNG)
+
+### ETH Transactions
+![1 ETH Deposit](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/1_eth_deposit.PNG)
+![5 ETH Deposit](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/5_eth_deposit.PNG)
+![10 ETH Deposit](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/10_eth_deposit.PNG)
+
 ## Deliverables
 
 * A Smart Contract for the Joint Savings accounts.
