@@ -20,10 +20,14 @@ To automate the creation of joint savings accounts, create a Solidity smart cont
 ![Set Accounts](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/set_accounts_in-solidity.PNG)
 ![Identify Accounts](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/set_accounts.PNG)
 
-### ETH Transactions
+### ETH Deposited Transactions
 ![1 ETH Deposit](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/1_eth_deposit.PNG)
 ![5 ETH Deposit](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/5_eth_deposit.PNG)
 ![10 ETH Deposit](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/10_eth_deposit.PNG)
+
+### ETH Withdraw Transactions
+
+![ETH withdraw](https://github.com/cpanagopoulos/Smart-Contracts-With-Solidity/blob/main/Execution_Results/withdraw_transaction.PNG)
 
 ## Deliverables
 
